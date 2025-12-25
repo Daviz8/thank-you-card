@@ -41,8 +41,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "KYW wellness | Home",
-  description: "KYW wellness",
+  title: "oyu-kahnt",
+  description: "oyu-kahnt",
 };
 
 export default function RootLayout({
